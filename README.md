@@ -19,5 +19,3 @@ This repository is the official PyTorch implementation of the paper "A New Metho
 ### Baselines
 The `Baselines` folder contains the training, validation, and testing codes for some baselines used in this study.
 
-### Results
-The `Results` folder contains some final result graphs of this study for reference. 
