@@ -1,4 +1,4 @@
-# A New Method for Enhancing Short-Term Wind Speed Forecast Capability of Numerical Weather Prediction
+# MTRCL: A Multi-source Data Fusion Method with Spatio-temporal Modeling for Enhancing Short-term Wind Speed Forecast Capability of Numerical Weather Prediction
 
 This repository is the official PyTorch implementation of the paper "A New Method for Enhancing Short-Term Wind Speed Forecast Capability of Numerical Weather Prediction".
 
