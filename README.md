@@ -17,5 +17,5 @@ This repository is the official PyTorch implementation of the paper "A New Metho
 3. Finally, use the `test.py` file in the `Model_testing` folder to test the wind speed prediction results.
 
 ### Baselines
-The `Baselines` folder contains the training, validation, and testing codes for some baselines used in this study.
+The `Baselines` folder contains the training, validation, and testing codes for some baselines used in this study. It also includes codes related to sensitivity analysis.
 
