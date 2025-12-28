@@ -1,6 +1,6 @@
-# A New Method for Enhancing Short-Term Wind Speed Forecast Capability of Numerical Weather Prediction
+# MTRCL: A spatio-temporal multi-source data fusion method for enhancing short-term wind speed forecast capability of numerical weather prediction
 
-This repository is the official PyTorch implementation of the paper "A New Method for Enhancing Short-Term Wind Speed Forecast Capability of Numerical Weather Prediction".
+This repository is the official PyTorch implementation of the paper "MTRCL: A spatio-temporal multi-source data fusion method for enhancing short-term wind speed forecast capability of numerical weather prediction".
 
 ### Data Download
 1. Download the ECMWF-TIGGE data from 2021 to 2024 from the website https://apps.ecmwf.int/datasets/data/tigge/levtype=sfc/type=cf/.
